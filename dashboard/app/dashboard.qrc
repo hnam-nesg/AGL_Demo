@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Dashboard.qml</file>
-        <file>Mercedes_Light.qml</file>
-        <file>BorderColor.qml</file>
-        <file>Background.qml</file>
-        <file>ButtonControl.qml</file>
-    </qresource>
-</RCC>
