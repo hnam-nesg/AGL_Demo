@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.cpp</file>
+        <file>audiocontroller.h</file>
+        <file>audiocontroller.cpp</file>
+    </qresource>
+</RCC>
